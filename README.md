@@ -1,13 +1,12 @@
 # Rediseño de app financiera "Banqui"
 ![0](https://user-images.githubusercontent.com/60928881/86696191-d8d38680-bfd2-11ea-981f-790e3fc2bc4b.png)
 ## Introducción
-Banqui es una fintech peruana que busca brindar una experiencia financiera
-digital simple, rápida y  personalizada para sus clientes. Banqui inició
+Banqui es una fintech peruana que brinda una experiencia financiera
+digital simple, rápida y  personalizada para sus clientes. Inició
 operaciones en 2019 en Perú y en 2020 en México, encontrando coincidencias en
 ambas culturas financieras en relación al ahorro, la percepción de la banca
-tradicional. Se encuentran aún en un estado _beta_.
-
-###  Nuestro Reto 
+tradicional. Se encuentran aún Actualmente se encuentra en introducción al sector Mexicano.
+## Nuestro Reto
 
  Los principales retos para Banqui se encuentran en:
 
@@ -19,9 +18,19 @@ tradicional. Se encuentran aún en un estado _beta_.
 
 ### Objetivos del proyecto:
 
-- Considerar las necesidades de los usuarios de Banqui optimizando su experiencia en la app.
 - Mejorar los servicios actuales (sistema de ahorro, transferencias, pago de servicios).
 - Fidelizar a los usuarios ya obtenidos.
 - Proponer opciones futuras pensadas en el usuario (inversiones y crowfunding).
 - Establecer la identidad de Banqui y su valor-ventaja frente al usuario.
+
+## Análisis del Entorno
+### Benchmark
+En el sector se identificó 394 startups Fintech, esto demuestra se está aprovechando la demanda social en nuevas tecnologías aplicadas a actividades financieras y de inversión.
+La banca digital en México viene creciendo progresivamente, existen 19 startups dentro de sector. 
+
+![image](https://user-images.githubusercontent.com/60928881/86700779-04f10680-bfd7-11ea-9b62-d58f7cd04aeb.png)
+### Contexto Actual de México
+### Regulación Legal
+![image](https://user-images.githubusercontent.com/60928881/86700950-3073f100-bfd7-11ea-8865-36a49ea7b8fb.png)
+
 
