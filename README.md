@@ -5,31 +5,17 @@ Banqui es una fintech peruana que busca brindar una experiencia financiera
 digital simple, rápida y  personalizada para sus clientes. Banqui inició
 operaciones en 2019 en Perú y en 2020 en México, encontrando coincidencias en
 ambas culturas financieras en relación al ahorro, la percepción de la banca
-tradicional, los altos intereses en tarjetas de crédito, entre otros.Se encuentran aún en un estado _beta_, probando su banca digital con
-un grupo pequeño de usuarios en Perú de donde obtuvieron muchos aprendizajes.
+tradicional. Se encuentran aún en un estado _beta_.
 
-### Contexto
+### Reto 
 
-Al revisar los resultados del uso de la aplicación con los usuarios beta
-y de haber realizado una investigación de UX con usuarios de México, el
-equipo de Banqui concluyó lo siguiente:
+ Los principales retos para Banqui se encuentran en:
 
-- La aplicación tiene aún problemas de diseño visual y de interacción que
-  hacen que la aplicación no sea entendible ni fácil de usar para muchos
-  usuarios:
-  * Existen inconsistencias en el uso de ciertos componentes de la interfaz.
-  * Los contrastes de color utilizados hacen que algunos elementos no
-    sean vistos por los usuarios.
-- El lenguaje utilizado en la aplicación a veces induce al error a los
-  usuarios. 
-- Los usuarios valoran mucho la funcionalidad de ahorro, sin embargo, se les
-  hace complicado utilizarla.
-- Existe un problema en el sign up. Según la data que han podido recolectar,
-  solo el 10% de las personas que descargan el up logran crearse una cuenta.
-- Es imperativo diseñar una aplicación para dispositivos Android. El [landing
-  page](http://banqui.pagedemo.co/) donde se anuncia la llegada de Banqui ha
-  identificado que el 70% de los intersados en Banqui navegan el landing page
-  desde un dispositivo Android.
+- La necesidad de fidelizar a los usuarios ya que sólo el 10% de las descargas se registra
+- Diseñar una experiencia más intuitiva y cercana con el usuario, porque se  presenta como “complicada de utilizar” para muchos.
+- El establecer la valor-ventaja de Banqui en comparación con otras fintech que ya han ganado terreno en el mercado mexicano.
+- La diversificación del servicio de ahorro para poder ofrecer distintas modalidades que puedan ajustarse a las necesidades de los usuarios.
+- La falta de educación financiera en la población mexicana,
 
 Además con miras al lanzamiento en México necesitan:
 
