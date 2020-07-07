@@ -50,15 +50,21 @@ La banca digital en México viene creciendo progresivamente, existen 19 startups
 ### Bienvenida 
 Diseñamos cuatro pantallas: una de bienvenida y tres de introducción. La primera muestra un saludo con la frase “Hola soy” y el imagotipo de Banqui, seguido de nuestra propuesta de slogan que sería “Tu asistente y amigo financiero”.
 
-![image](https://user-images.githubusercontent.com/60928881/86711389-851c6980-bfe1-11ea-9d9b-d36d19559536.png)
+![image](https://user-images.githubusercontent.com/60928881/86712482-ac276b00-bfe2-11ea-85b0-b623f4aea66d.png)
 
 ### NIP de seguridad
 Creación de un “NIP” con la confirmación del mismo. Éste consta de un número de seguridad de 4 dígitos con el que posteriormente el usuario podrá ingresar a la app y confirmar operaciones.
 
 ![image](https://user-images.githubusercontent.com/60928881/86712295-78e4dc00-bfe2-11ea-9ebc-369b3fc7df59.png)
 
+### Nickname
+Consideramos importante permitir al usuario establecer un “nickname” o la forma en la que prefiere ser identificado con el propósito de que la experiencia sea más personalizada.
 
+![image](https://user-images.githubusercontent.com/60928881/86712809-07f1f400-bfe3-11ea-9631-9d2fbbb4d676.png)
 
+### Términos y condiciones
+Incluimos la oración “Acepto término y condiciones” en un link para que el usuario pueda leer los mismos y estar al tanto de los lineamientos legales bajo los que se rige Banqui y bajo los que se encontrará también de aceptarlos al marcar la casilla. 
+![image](https://user-images.githubusercontent.com/60928881/86713139-64551380-bfe3-11ea-844a-e6171fdd0083.png)
 
 
 
