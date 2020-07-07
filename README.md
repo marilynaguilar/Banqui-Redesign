@@ -1,43 +1,12 @@
 # Rediseño de app financiera "Banqui"
 ![0](https://user-images.githubusercontent.com/60928881/86696191-d8d38680-bfd2-11ea-981f-790e3fc2bc4b.png)
-## Preámbulo
-Las Fintech son un tipo de empresas, que a través del desarrollo tecnológico
-ofrecen servicios financieros digitales que permiten mejorar la experiencia
-financiera de personas naturales, así como de personas jurídicas.
-
-En LATAM, las fintech han tenido un rápido crecimiento, según el informe
-Fintech América Latina 2018 del BID. Brasil es el líder en la región con 380
-fintech al 2018, le sigue México con 273. Perú está un poco rezagado, con 57.
-
-Entre las soluciones que ofrecen está la personalización de productos y
-servicios, una mejor experiencia, reducción de costos por desintermediación de
-bancos y, sobre todo, el control de las operaciones financieras desde el
-celular. Esto lo logran al centrarse en 3 puntos: las finanzas (gestión de
-ahorros, inversiones, etc), la tecnología (big data y analítica) y poner al
-cliente en el centro de la organización.
-
-Uno de los segmentos de fintech que más rápido está creciendo son los bancos
-digitales que representan un gran potencial para las personas y pymes no
-bancarizadas o que no tienen acceso al sistema financiero tradicional.
-
 ## Introducción
-
-### Fintech
-  
 Banqui es una fintech peruana que busca brindar una experiencia financiera
 digital simple, rápida y  personalizada para sus clientes. Banqui inició
 operaciones en 2019 en Perú y en 2020 en México, encontrando coincidencias en
 ambas culturas financieras en relación al ahorro, la percepción de la banca
-tradicional, los altos intereses en tarjetas de crédito, entre otros. Un dato
-de ejemplo es que en México solo el 15% de personas que ahorran lo hacen a
-través de una institución financiera formal (bancos, cooperativas, fondos de
-inversión), mientras que en Perú es un 14%.
-
-Banqui se encuentra aún en un estado _beta_, probando su banca digital con
+tradicional, los altos intereses en tarjetas de crédito, entre otros.Se encuentran aún en un estado _beta_, probando su banca digital con
 un grupo pequeño de usuarios en Perú de donde obtuvieron muchos aprendizajes.
-Banqui quiere seguir desarrollando su producto y nos ha contratado para poder
-ayudarlos a corregir los principales problemas que encontraron en su
-aplicación durante su fase _beta_.
 
 ### Contexto
 
