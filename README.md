@@ -66,9 +66,13 @@ Consideramos importante permitir al usuario establecer un “nickname” o la fo
 Incluimos la oración “Acepto término y condiciones” en un link para que el usuario pueda leer los mismos y estar al tanto de los lineamientos legales bajo los que se rige Banqui y bajo los que se encontrará también de aceptarlos al marcar la casilla. 
 ![image](https://user-images.githubusercontent.com/60928881/86713139-64551380-bfe3-11ea-844a-e6171fdd0083.png)
 
+## Home o Pantalla Principal
 
+### Cabecera
+Optamos por marcar la cabecera de la pantalla principal con un fondo morado que se distingue del fondo blanco de las otras secciones donde incluimos tanto el nickname como la foto de perfil proporcionada en un inicio por el usuario y un pequeño botón con un lápiz para indicarle que es posible editar o cambiar la misma. 
+Cita de user tester 
+> “Me gustaría que aquí (señalando la cabecera) dijera mi nombre o apareciera mi foto de perfil. Me hace sentir querido por la aplicación”.
 
-
-
+![image](https://user-images.githubusercontent.com/60928881/86713968-3f14d500-bfe4-11ea-9227-00ecdec364f9.png)
 
 
