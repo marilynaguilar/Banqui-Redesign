@@ -1,5 +1,5 @@
 # Aplicación financiera
-
+![0](https://user-images.githubusercontent.com/60928881/86696191-d8d38680-bfd2-11ea-981f-790e3fc2bc4b.png)
 ## Preámbulo
 Las Fintech son un tipo de empresas, que a través del desarrollo tecnológico
 ofrecen servicios financieros digitales que permiten mejorar la experiencia
