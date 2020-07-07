@@ -73,7 +73,13 @@ Optamos por marcar la cabecera de la pantalla principal con un fondo morado que 
 Cita de user tester 
 > “Me gustaría que aquí (señalando la cabecera) dijera mi nombre o apareciera mi foto de perfil. Me hace sentir querido por la aplicación”.
 ### Tarjeta, saldo disponible y CVV
- Hemos optado por el uso del color verde agua para poder distinguirla en espacio e importancia de los demás elementos como la cabecera y la sección de “Pagos por vencer”, además de que es uno de los colores principales de la app. También hemos añadido la posibilidad de dar click sobre la misma para que ésta se gire mostrando su reverso, permitiendo conocer el código CVV de la misma. 
+Hemos optado por el uso del color verde agua para poder distinguirla en espacio e importancia de los demás elementos como la cabecera y la sección de “Pagos por vencer”, además de que es uno de los colores principales de la app.
+También hemos añadido la posibilidad de dar click sobre la misma para que ésta se gire mostrando su reverso, permitiendo conocer el código CVV de la misma. 
 Por otro lado, hemos colocado la visualización del saldo disponible dentro de la tarjeta ya que se asocia a la misma y para poder ofrecer una vista más amplia y estructurada a la sección “Pagos por vencer” sin eliminar la posibilidad de mirar la cantidad en cuenta.
+
 ![image](https://user-images.githubusercontent.com/60928881/86713968-3f14d500-bfe4-11ea-9227-00ecdec364f9.png)
 
+### Ayuda
+Se implementó éste apartado debido a que en el testeo nos mencionaron como pertinente la posibilidad de contar con un chat que permita contactar con un asesor en caso de duda o aclaración, así como un tutorial opcional para aprender a utilizar la aplicación y conocer todas sus funcionalidades. También incluimos la sección FAQ o bien “Preguntas Frecuentes” por si el usuario no desea contactar con un asesor, no lo considera tan necesario o su asunto es común en el uso de la aplicación.
+
+![image](https://user-images.githubusercontent.com/60928881/86715118-83ed3b80-bfe5-11ea-982c-84193a1994c3.png)
