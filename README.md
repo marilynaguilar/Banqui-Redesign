@@ -47,40 +47,19 @@ La banca digital en México viene creciendo progresivamente, existen 19 startups
 
 ## Propuestas de Diseño
 
-### Bienvenida 
-Diseñamos cuatro pantallas: una de bienvenida y tres de introducción. La primera muestra un saludo con la frase “Hola soy” y el imagotipo de Banqui, seguido de nuestra propuesta de slogan que sería “Tu asistente y amigo financiero”.
 
-![image](https://user-images.githubusercontent.com/60928881/86712482-ac276b00-bfe2-11ea-85b0-b623f4aea66d.png)
+## Sustentato de Rediseño
 
-### NIP de seguridad
-Creación de un “NIP” con la confirmación del mismo. Éste consta de un número de seguridad de 4 dígitos con el que posteriormente el usuario podrá ingresar a la app y confirmar operaciones.
-
-![image](https://user-images.githubusercontent.com/60928881/86712295-78e4dc00-bfe2-11ea-9ebc-369b3fc7df59.png)
-
-### Nickname
-Consideramos importante permitir al usuario establecer un “nickname” o la forma en la que prefiere ser identificado con el propósito de que la experiencia sea más personalizada.
-
-![image](https://user-images.githubusercontent.com/60928881/86712809-07f1f400-bfe3-11ea-9631-9d2fbbb4d676.png)
-
-### Términos y condiciones
-Incluimos la oración “Acepto término y condiciones” en un link para que el usuario pueda leer los mismos y estar al tanto de los lineamientos legales bajo los que se rige Banqui y bajo los que se encontrará también de aceptarlos al marcar la casilla. 
-![image](https://user-images.githubusercontent.com/60928881/86713139-64551380-bfe3-11ea-844a-e6171fdd0083.png)
-
-## Home o Pantalla Principal
-
+## Pantalla Principal
 ### Cabecera
-Optamos por marcar la cabecera de la pantalla principal con un fondo morado que se distingue del fondo blanco de las otras secciones donde incluimos tanto el nickname como la foto de perfil proporcionada en un inicio por el usuario y un pequeño botón con un lápiz para indicarle que es posible editar o cambiar la misma. 
-Cita de user tester 
-> “Me gustaría que aquí (señalando la cabecera) dijera mi nombre o apareciera mi foto de perfil. Me hace sentir querido por la aplicación”.
-![image](https://user-images.githubusercontent.com/60928881/86713968-3f14d500-bfe4-11ea-9227-00ecdec364f9.png)
+Optamos por marcar la cabecera de la pantalla principal con un fondo morado que se distingue del fondo blanco de las otras secciones donde incluimos tanto el nickname como la foto de perfil proporcionada en registro además un pequeño botón con un lápiz para indicarle que es posible editar o cambiar la misma. 
+> “Me gustaría que aquí (señalando la cabecera) dijera mi nombre o apareciera mi foto de perfil. Me haría sentir querido por la aplicación”.
 
 ### Tarjeta, saldo disponible y CVV
-Hemos añadido la posibilidad mostrando su reverso de la tarjeta, permitiendo conocer el código CVV de la misma. 
-Por otro lado, hemos colocado la visualización del saldo disponible dentro de la tarjeta ya que se asocia a la misma y para poder ofrecer una vista más amplia y estructurada a la sección “Pagos por vencer” sin eliminar la posibilidad de mirar la cantidad en cuenta.
+Por otro lado, hemos colocado la visualización del saldo disponible dentro de la tarjeta ya que se asocia a la misma. Hemos añadido la posibilidad mostrando su reverso de la tarjeta, permitiendo conocer el código CVV de la misma. 
 
+### Pagos por vencer
+Modificamos el fondo del título con la intención de resaltarlo, ya que antes se mostraba confuso durante el uso entre sí era sólo el título de la sección o también un botón que te permite ingresar a los detalles y funciones de “Pagos por vencer”.
 
-
-### Ayuda
-Se implementó éste apartado debido a que en el testeo nos mencionaron como pertinente la posibilidad de contar con un chat que permita contactar con un asesor en caso de duda o aclaración, así como un tutorial opcional para aprender a utilizar la aplicación y conocer todas sus funcionalidades. También incluimos la sección FAQ o bien “Preguntas Frecuentes” por si el usuario no desea contactar con un asesor, no lo considera tan necesario o su asunto es común en el uso de la aplicación.
-
-![image](https://user-images.githubusercontent.com/60928881/86715118-83ed3b80-bfe5-11ea-982c-84193a1994c3.png)
+### Campana de notificaciones
+Durante los testeos los usuarios nos comentaron sobre la importancia de tener avisos y notificaciones que les informen sobre pagos próximos, pagos vencidos, pagos por vencer, movimientos realizados recientemente, etc. Por ello agregamos de manera flotante un botón con una campanita como apartado para las notificaciones.
