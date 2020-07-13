@@ -53,7 +53,8 @@ A continuación mostraremos algunas de las nuestras propuestas desarrolladas par
 ## Observaciones de propuesta
 
 _figura 1 (antes y después)_
- **- Cabecera :** Optamos por marcar la cabecera de la pantalla principal con un fondo morado que se distingue del fondo blanco de las otras secciones donde incluimos tanto el nickname como la foto de perfil proporcionada en registro además un pequeño botón con un lápiz para indicarle que es posible editar o cambiar la misma. 
+
+**- Cabecera :** Optamos por marcar la cabecera de la pantalla principal con un fondo morado que se distingue del fondo blanco de las otras secciones donde incluimos tanto el nickname como la foto de perfil proporcionada en registro además un pequeño botón con un lápiz para indicarle que es posible editar o cambiar la misma. 
 > “Me gustaría que aquí (señalando la cabecera) dijera mi nombre o apareciera mi foto de perfil. Me haría sentir querido por la aplicación”.
 
 
@@ -63,7 +64,10 @@ _figura 1 (antes y después)_
 
  **- Campana de notificaciones :** Durante los testeos los usuarios nos comentaron sobre la importancia de tener avisos o notificaciones sobre pagos próximos, pagos vencidos, movimientos realizados recientemente, etc. 
  
- _figura 1 (antes y después)_
+ _figura 2 (antes y después)_
  
+ **NIP de seguridad :** Éste consta de un número de seguridad de 4 dígitos con el que posteriormente el usuario podrá ingresar a la app y confirmar operaciones
+-  Hemos sustituido el correo electrónico y una contraseña como pasos para loguearse por un NIP. Debido a que permite un ingreso más rápido y fácil para el usuario. Siendo ésta una característica comentada com "otras aplicaciones lo implementan y les parece práctico y seguro". 
+- También hemos añadido la pregunta y link “¿Olvidaste tu nip?” para facilitar el acceso a los usuarios en caso de haber extraviado u olvidado su nip y así poder restablecerlo.
  
 
