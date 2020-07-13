@@ -46,22 +46,20 @@ La banca digital en México viene creciendo progresivamente, existen 19 startups
 ![Arbol de contenido 2 (2)](https://user-images.githubusercontent.com/60928881/86705273-53080900-bfdb-11ea-9c92-3474f3798d17.png)
 
 ## Propuestas de Rediseño
-A continuación mostraremos el antes y despues de nuestras de la 
+A continuación mostraremos algunas de las nuestras propuestas desarrolladas para la app:
 
 ![image](https://user-images.githubusercontent.com/60928881/87267565-acfe4800-c48d-11ea-9cc3-4358a4e0c66b.png)
 
 ## Sustentato de Rediseño
-
-## Pantalla Principal
-### Cabecera
+### - Cabecera
 Optamos por marcar la cabecera de la pantalla principal con un fondo morado que se distingue del fondo blanco de las otras secciones donde incluimos tanto el nickname como la foto de perfil proporcionada en registro además un pequeño botón con un lápiz para indicarle que es posible editar o cambiar la misma. 
 > “Me gustaría que aquí (señalando la cabecera) dijera mi nombre o apareciera mi foto de perfil. Me haría sentir querido por la aplicación”.
 
-### Tarjeta, saldo disponible y CVV
+### - Tarjeta, saldo disponible y CVV
 Por otro lado, hemos colocado la visualización del saldo disponible dentro de la tarjeta ya que se asocia a la misma. Hemos añadido la posibilidad mostrando su reverso de la tarjeta, permitiendo conocer el código CVV de la misma. 
 
-### Pagos por vencer
+### - Pagos por vencer
 Modificamos el fondo del título con la intención de resaltarlo, ya que antes se mostraba confuso durante el uso entre sí era sólo el título de la sección o también un botón que te permite ingresar a los detalles y funciones de “Pagos por vencer”.
 
-### Campana de notificaciones
+### - Campana de notificaciones
 Durante los testeos los usuarios nos comentaron sobre la importancia de tener avisos y notificaciones que les informen sobre pagos próximos, pagos vencidos, pagos por vencer, movimientos realizados recientemente, etc. Por ello agregamos de manera flotante un botón con una campanita como apartado para las notificaciones.
