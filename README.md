@@ -54,15 +54,17 @@ A continuación mostraremos algunas de las nuestras propuestas desarrolladas par
 
 _figura 1 (antes y después)_
 
-**- Cabecera :** Optamos por marcar la cabecera de la pantalla principal con un fondo morado que se distingue del fondo blanco de las otras secciones donde incluimos tanto el nickname como la foto de perfil proporcionada en registro además un pequeño botón con un lápiz para indicarle que es posible editar o cambiar la misma. 
+- **Cabecera :** Optamos por marcar la cabecera de la pantalla principal con un fondo morado que se distingue del fondo blanco de las otras secciones donde incluimos tanto el nickname como la foto de perfil proporcionada en registro además un pequeño botón con un lápiz para indicarle que es posible editar o cambiar la misma. 
+
 > “Me gustaría que aquí (señalando la cabecera) dijera mi nombre o apareciera mi foto de perfil. Me haría sentir querido por la aplicación”.
 
 
-**- Tarjeta, saldo disponible y CVV :** Por otro lado, hemos colocado la visualización del saldo disponible dentro de la tarjeta ya que se asocia a la misma. Hemos añadido la posibilidad mostrando su reverso de la tarjeta, permitiendo conocer el código CVV de la misma. 
+- **Tarjeta, saldo disponible y CVV :** Por otro lado, hemos colocado la visualización del saldo disponible dentro de la tarjeta ya que se asocia a la misma. Hemos añadido la posibilidad mostrando su reverso de la tarjeta, permitiendo conocer el código CVV de la misma. 
+- 
+- **Pagos por vencer :** Modificamos el fondo del título con la intención de resaltarlo, ya que antes se mostraba confuso durante el uso entre sí era sólo el título de la sección o también un botón que te permite ingresar a los detalles y funciones de “Pagos por vencer”.
+- 
+-  **Campana de notificaciones :** Durante los testeos los usuarios nos comentaron sobre la importancia de tener avisos o notificaciones sobre pagos próximos, pagos vencidos, movimientos realizados recientemente, etc. 
 
-**- Pagos por vencer :** Modificamos el fondo del título con la intención de resaltarlo, ya que antes se mostraba confuso durante el uso entre sí era sólo el título de la sección o también un botón que te permite ingresar a los detalles y funciones de “Pagos por vencer”.
-
- **- Campana de notificaciones :** Durante los testeos los usuarios nos comentaron sobre la importancia de tener avisos o notificaciones sobre pagos próximos, pagos vencidos, movimientos realizados recientemente, etc. 
  
  _figura 2 (antes y después)_
  
