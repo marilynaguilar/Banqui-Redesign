@@ -1,6 +1,6 @@
 # Rediseño de app financiera "Banqui"
 ![0](https://user-images.githubusercontent.com/60928881/86696191-d8d38680-bfd2-11ea-981f-790e3fc2bc4b.png)
-## Introducción
+## 1. Introducción
 Banqui es una fintech peruana que brinda una experiencia financiera
 digital simple, rápida y  personalizada para sus clientes. Inició
 operaciones en 2019 en Perú y en 2020 en México, encontrando coincidencias en
@@ -16,35 +16,36 @@ tradicional. Se encuentran aún Actualmente se encuentra en introducción al sec
 - La diversificación del servicio de ahorro para poder ofrecer distintas modalidades que puedan ajustarse a las necesidades de los usuarios.
 - La falta de educación financiera en la población mexicana,
 
-### Objetivos del proyecto:
+### 2. Objetivos del proyecto:
 
 - Mejorar los servicios actuales (sistema de ahorro, transferencias, pago de servicios).
 - Fidelizar a los usuarios ya obtenidos.
 - Proponer opciones futuras pensadas en el usuario (inversiones y crowfunding).
 - Establecer la identidad de Banqui y su valor-ventaja frente al usuario.
 
-## Análisis del Entorno
-### Benchmark
+## 3. Análisis del Entorno
+- ### Benchmark
 En el sector se identificó 394 startups Fintech, esto demuestra se está aprovechando la demanda social en nuevas tecnologías aplicadas a actividades financieras y de inversión.
 La banca digital en México viene creciendo progresivamente, existen 19 startups dentro de sector. 
 
 ![image](https://user-images.githubusercontent.com/60928881/86700779-04f10680-bfd7-11ea-9b62-d58f7cd04aeb.png)
-### Contexto Actual de México
+- ### Contexto Actual de México
 ![image](https://user-images.githubusercontent.com/60928881/86702092-3fa76e80-bfd8-11ea-8e51-abe7a15e3eea.png)
 
-### Regulación Legal
+- ### Regulación Legal
 ![image](https://user-images.githubusercontent.com/60928881/86700950-3073f100-bfd7-11ea-8865-36a49ea7b8fb.png)
 
-## User Persona
+- ## User Persona
 ![image](https://user-images.githubusercontent.com/60928881/86705975-07a22a80-bfdc-11ea-812e-290b185a0e44.png)
 
-## Primeros pasos
+- ## Primeros pasos
 ![image](https://user-images.githubusercontent.com/60928881/86708923-06263180-bfdf-11ea-8881-6840ba7148a7.png)
 ## Mapa de contenido 
 
 ![image](https://user-images.githubusercontent.com/60928881/86703556-9cefef80-bfd9-11ea-912a-b12911d71985.png)
 ![Arbol de contenido 2 (2)](https://user-images.githubusercontent.com/60928881/86705273-53080900-bfdb-11ea-9c92-3474f3798d17.png)
 
+## 3. Ideación y prototipado
 ## Propuestas de Rediseño
 A continuación mostraremos algunas de las nuestras propuestas desarrolladas para la app:
 
@@ -70,4 +71,9 @@ _figura 1 (antes y después)_
 -  Hemos sustituido el correo electrónico y una contraseña como pasos para loguearse por un NIP. Debido a que permite un ingreso más rápido y fácil para el usuario. Siendo ésta una característica comentada com "otras aplicaciones lo implementan y les parece práctico y seguro". 
 - También hemos añadido la pregunta y link “¿Olvidaste tu nip?” para facilitar el acceso a los usuarios en caso de haber extraviado u olvidado su nip y así poder restablecerlo.
  
+## Anexos de Proyecto
+
+- [Prototipo Completo](https://www.figma.com/file/pTTUq8JZ7NhAFt6GYdc2Ye/App-Financiera-V2-Copy-CevichitoConChile?node-id=1871%3A1817)
+
+- [Prototipo Navegable](https://www.figma.com/proto/pTTUq8JZ7NhAFt6GYdc2Ye/App-Financiera-V2-Copy-CevichitoConChile?node-id=1871%3A6429&viewport=510%2C267%2C0.04465460032224655&scaling=scale-down)
 
