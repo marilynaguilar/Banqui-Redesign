@@ -60,9 +60,7 @@ _figura 1 (antes y después)_
 
 
 - **Tarjeta, saldo disponible y CVV :** Por otro lado, hemos colocado la visualización del saldo disponible dentro de la tarjeta ya que se asocia a la misma. Hemos añadido la posibilidad mostrando su reverso de la tarjeta, permitiendo conocer el código CVV de la misma. 
-
 - **Pagos por vencer :** Modificamos el fondo del título con la intención de resaltarlo, ya que antes se mostraba confuso durante el uso entre sí era sólo el título de la sección o también un botón que te permite ingresar a los detalles y funciones de “Pagos por vencer”.
-
 -  **Campana de notificaciones :** Durante los testeos los usuarios nos comentaron sobre la importancia de tener avisos o notificaciones sobre pagos próximos, pagos vencidos, movimientos realizados recientemente, etc. 
 
  
