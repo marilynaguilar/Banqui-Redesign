@@ -50,7 +50,9 @@ A continuación mostraremos algunas de las nuestras propuestas desarrolladas par
 
 ![image](https://user-images.githubusercontent.com/60928881/87267565-acfe4800-c48d-11ea-9cc3-4358a4e0c66b.png)
 
-## Detalles de Rediseño
+## Observaciones de propuesta
+
+_figura 1 (antes y después)_
  **- Cabecera :** Optamos por marcar la cabecera de la pantalla principal con un fondo morado que se distingue del fondo blanco de las otras secciones donde incluimos tanto el nickname como la foto de perfil proporcionada en registro además un pequeño botón con un lápiz para indicarle que es posible editar o cambiar la misma. 
 > “Me gustaría que aquí (señalando la cabecera) dijera mi nombre o apareciera mi foto de perfil. Me haría sentir querido por la aplicación”.
 
@@ -60,4 +62,8 @@ A continuación mostraremos algunas de las nuestras propuestas desarrolladas par
 **- Pagos por vencer :** Modificamos el fondo del título con la intención de resaltarlo, ya que antes se mostraba confuso durante el uso entre sí era sólo el título de la sección o también un botón que te permite ingresar a los detalles y funciones de “Pagos por vencer”.
 
  **- Campana de notificaciones :** Durante los testeos los usuarios nos comentaron sobre la importancia de tener avisos o notificaciones sobre pagos próximos, pagos vencidos, movimientos realizados recientemente, etc. 
+ 
+ _figura 1 (antes y después)_
+ 
+ 
 
