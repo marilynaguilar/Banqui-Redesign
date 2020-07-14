@@ -70,7 +70,7 @@ _figura 1 (antes y después)_
  
  _figura 2 (antes y después)_
  
- **NIP de seguridad :** Éste consta de un número de seguridad de 4 dígitos con el que posteriormente el usuario podrá ingresar a la app y confirmar operaciones
+- **NIP de seguridad :** Éste consta de un número de seguridad de 4 dígitos con el que posteriormente el usuario podrá ingresar a la app y confirmar operaciones
 -  Hemos sustituido el correo electrónico y una contraseña como pasos para loguearse por un NIP. Debido a que permite un ingreso más rápido y fácil para el usuario. Siendo ésta una característica comentada como:
 
 > "Otras aplicaciones lo implementan porque es práctico y seguro".
