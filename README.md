@@ -47,7 +47,7 @@ La banca digital en México viene creciendo progresivamente, existen 19 startups
 
 ## 3. Ideación y prototipado
 ## Propuestas de Rediseño
-A continuación mostraremos algunas de las nuestras propuestas desarrolladas para la app:
+A continuación dos vistas las propuesta desarrollada para baqui:
 
 ![image](https://user-images.githubusercontent.com/60928881/87267565-acfe4800-c48d-11ea-9cc3-4358a4e0c66b.png)
 
@@ -68,7 +68,10 @@ _figura 1 (antes y después)_
  _figura 2 (antes y después)_
  
  **NIP de seguridad :** Éste consta de un número de seguridad de 4 dígitos con el que posteriormente el usuario podrá ingresar a la app y confirmar operaciones
--  Hemos sustituido el correo electrónico y una contraseña como pasos para loguearse por un NIP. Debido a que permite un ingreso más rápido y fácil para el usuario. Siendo ésta una característica comentada com "otras aplicaciones lo implementan y les parece práctico y seguro". 
+-  Hemos sustituido el correo electrónico y una contraseña como pasos para loguearse por un NIP. Debido a que permite un ingreso más rápido y fácil para el usuario. Siendo ésta una característica comentada como:
+
+> "Otras aplicaciones lo implementan porque es práctico y seguro".
+ 
 - También hemos añadido la pregunta y link “¿Olvidaste tu nip?” para facilitar el acceso a los usuarios en caso de haber extraviado u olvidado su nip y así poder restablecerlo.
  
 ## Anexos de Proyecto
