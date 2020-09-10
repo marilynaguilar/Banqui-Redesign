@@ -6,7 +6,7 @@ digital simple, rápida y  personalizada para sus clientes. Inició
 operaciones en 2019 en Perú y en 2020 en México, encontrando coincidencias en
 ambas culturas financieras en relación al ahorro, la percepción de la banca
 tradicional. Se encuentran aún Actualmente se encuentra en introducción al sector Mexicano.
-## Nuestro Reto
+# Nuestro Reto
 
  Los principales retos para Banqui se encuentran en:
 
@@ -16,7 +16,7 @@ tradicional. Se encuentran aún Actualmente se encuentra en introducción al sec
 - La diversificación del servicio de ahorro para poder ofrecer distintas modalidades que puedan ajustarse a las necesidades de los usuarios.
 - La falta de educación financiera en la población mexicana,
 
-### 2. Objetivos del proyecto:
+## 2. Objetivos del proyecto:
 
 - Mejorar los servicios actuales (sistema de ahorro, transferencias, pago de servicios).
 - Fidelizar a los usuarios ya obtenidos.
@@ -40,7 +40,7 @@ La banca digital en México viene creciendo progresivamente, existen 19 startups
 
 
 
-## 3. Ideación y prototipado
+## 4. Ideación y prototipado
 
 - ## Primeros pasos
 ![image](https://user-images.githubusercontent.com/60928881/86708923-06263180-bfdf-11ea-8881-6840ba7148a7.png)
@@ -73,7 +73,7 @@ _figura 1 (antes y después)_
  
 - También hemos añadido la pregunta y link “¿Olvidaste tu nip?” para facilitar el acceso a los usuarios en caso de haber extraviado u olvidado su nip y así poder restablecerlo.
  
-## 4. Anexos de Proyecto
+## 5. Anexos de Proyecto
 
 - [Prototipo Completo](https://www.figma.com/file/pTTUq8JZ7NhAFt6GYdc2Ye/App-Financiera-V2-Copy-CevichitoConChile?node-id=1871%3A1817)
 
