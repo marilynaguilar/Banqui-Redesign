@@ -45,6 +45,7 @@ La banca digital en México viene creciendo progresivamente, existen 19 startups
 ## 4. Ideación y prototipado
 
 **- Propuestas de Rediseño**
+
 A continuación dos vistas las propuesta desarrollada para baqui:
 
 ![image](https://user-images.githubusercontent.com/60928881/87267565-acfe4800-c48d-11ea-9cc3-4358a4e0c66b.png)
