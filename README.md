@@ -6,6 +6,7 @@ digital simple, rápida y  personalizada para sus clientes. Inició
 operaciones en 2019 en Perú y en 2020 en México, encontrando coincidencias en
 ambas culturas financieras en relación al ahorro, la percepción de la banca
 tradicional. Se encuentran aún Actualmente se encuentra en introducción al sector Mexicano.
+
 **Nuestro Reto**
 
  Los principales retos para Banqui se encuentran en:
