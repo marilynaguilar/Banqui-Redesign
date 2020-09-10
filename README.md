@@ -8,7 +8,6 @@ ambas culturas financieras en relación al ahorro, la percepción de la banca
 tradicional. Se encuentran aún Actualmente se encuentra en introducción al sector Mexicano.
 
 **Nuestro Reto**
-
  Los principales retos para Banqui se encuentran en:
 
 - La necesidad de fidelizar a los usuarios ya que sólo el 10% de las descargas se registra
@@ -35,6 +34,8 @@ La banca digital en México viene creciendo progresivamente, existen 19 startups
 
 - ### Regulación Legal
 ![image](https://user-images.githubusercontent.com/60928881/86700950-3073f100-bfd7-11ea-8865-36a49ea7b8fb.png)
+
+## 4. Sintesis
 
 - ## User Persona
 ![image](https://user-images.githubusercontent.com/60928881/86705975-07a22a80-bfdc-11ea-812e-290b185a0e44.png)
