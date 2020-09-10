@@ -8,6 +8,7 @@ ambas culturas financieras en relación al ahorro, la percepción de la banca
 tradicional. Se encuentran aún Actualmente se encuentra en introducción al sector Mexicano.
 
 **Nuestro Reto**
+
  Los principales retos para Banqui se encuentran en:
 
 - La necesidad de fidelizar a los usuarios ya que sólo el 10% de las descargas se registra
