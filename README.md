@@ -37,7 +37,7 @@ La banca digital en México viene creciendo progresivamente, existen 19 startups
 
 ## 4. Sintesis
 
-- ## User Persona
+- **User Persona**
 ![image](https://user-images.githubusercontent.com/60928881/86705975-07a22a80-bfdc-11ea-812e-290b185a0e44.png)
 
 
