@@ -79,7 +79,8 @@ _figura 1 (antes y después)_
 
 - [Prototipo Navegable](https://www.figma.com/proto/7r62Ex0DAxX1Afsw5PKLcJ/Banqui?node-id=1564%3A6662&viewport=1737%2C2460%2C0.821845293045044&scaling=scale-down)
 
-![image](https://user-images.githubusercontent.com/60928881/93253429-74fcd500-f75c-11ea-95b2-57777b7e1fc9.png)
+![image](https://user-images.githubusercontent.com/60928881/93253537-a07fbf80-f75c-11ea-8c37-4acba8dbbf39.png)
+
 
 
 
