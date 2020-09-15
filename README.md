@@ -76,7 +76,5 @@ _figura 1 (antes y después)_
  
 ## 5. Anexos de Proyecto
 
-- [Prototipo Completo](https://www.figma.com/file/pTTUq8JZ7NhAFt6GYdc2Ye/App-Financiera-V2-Copy-CevichitoConChile?node-id=1871%3A1817)
-
-- [Prototipo Navegable](https://www.figma.com/proto/pTTUq8JZ7NhAFt6GYdc2Ye/App-Financiera-V2-Copy-CevichitoConChile?node-id=1871%3A6429&viewport=510%2C267%2C0.04465460032224655&scaling=scale-down)
+- [Prototipo Navegable](https://www.figma.com/proto/J2SonNqj6pdk4WeAx4GL7t/MiDoc?node-id=92%3A0&scaling=min-zoom)
 
