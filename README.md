@@ -1,5 +1,6 @@
 # Rediseño de app financiera "Banqui"
-![1](https://user-images.githubusercontent.com/60928881/93249041-51cf2700-f756-11ea-945b-e7fd7c9448f1.png)
+![image](https://user-images.githubusercontent.com/60928881/93249386-dae65e00-f756-11ea-92ea-01088bda728c.png)
+
 ## 1. Introducción
 Banqui es una fintech peruana que brinda una experiencia financiera
 digital simple, rápida y  personalizada para sus clientes. Inició
