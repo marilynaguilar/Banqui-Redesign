@@ -77,7 +77,7 @@ _figura 1 (antes y después)_
  
 ## 5. Anexos de Proyecto
 
-- [Prototipo Navegable](https://www.figma.com/proto/7r62Ex0DAxX1Afsw5PKLcJ/Banqui?node-id=1564%3A6662&viewport=1737%2C2460%2C0.821845293045044&scaling=scale-down)
+- [Prototipo Navegable](https://www.figma.com/proto/MKkVJMRH9Xig3WWZvkLc6f/Banqui?node-id=45%3A7760&viewport=3722%2C2882%2C0.9429575204849243&scaling=scale-down)
  
  
 
